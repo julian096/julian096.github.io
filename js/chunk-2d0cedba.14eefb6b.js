@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cedba"],{"60f0":function(e,t,i){"use strict";i.r(t);var n=function(){var e=this,t=e.$createElement,i=e._self._c||t;return i("div",{staticClass:"main"},[i("h1",[e._v("Links 2")]),i("h2",[e._v("Investigación")]),i("br"),i("router-link",{attrs:{to:"/ejercicios/ej3/ej3_links"}},[e._v("Regresar ↑")]),i("hr"),i("a",{attrs:{href:"https://github.com/julian096/julian096.github.io/blob/master/trabajos/ejercicios/ej3-links/links2.html"}},[e._v("Ver código fuente")])],1)},s=[],r=i("2877"),a={},c=Object(r["a"])(a,n,s,!1,null,null,null);t["default"]=c.exports}}]);
-//# sourceMappingURL=chunk-2d0cedba.0972c3b0.js.map
+//# sourceMappingURL=chunk-2d0cedba.14eefb6b.js.map
