@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Laila|Slabo+27px');
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+    #container{
+        border: 2px solid #686464;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 1em;
+    }
+    li{
+        list-style: none;
+        margin-top: 20px;
+        font-size: 1em;
+        font-family: 'Slabo 27px';
+    }
+    header{
+        margin: 1em;
+        color: black;
+        padding: 30px;
+        border: 2px solid #064c9c;
+        border-radius: 20px;
+        /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUIy1lvvaut1uTRtQ-s8uHao5V5WHvcDpsijH3ZXBJ8oHLL8AQ'); */
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    img{
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+    }
+    #yo{
+        font-size: 2.5em;
+        font-family: 'Crimson Text';
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    #dev{
+        color: #064c9c;
+    }
+    #info{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    #cuerpo{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    h2{
+        text-align: center;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        font-family: 'laila';
+    }
+    h3{
+        font-family: 'laila';
+        text-align: center;
+    }
+    p{
+        font-family: 'laila';
+        text-align: justify;
+    }
+    #profile p{
+        margin: 1em;
+    }
+    #knowledge{
+        width: 100%;
+    }
+    #skills{
+        width: 100%;
+    }
+    #info2{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    #info3{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    #leng_info{
+        display: flex;
+        flex-direction: column;
+    }
+    #soft_info{
+        display: flex;
+        flex-direction: column;
+    }
+    #soft_info p{
+        margin-top: 1em;
+    }
+    #leng_info p{
+        margin-top: 1em;
+    }
+    #prog_lang{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #prog_lang p{
+        margin-top: 1em;
+    }
+    #frame{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #frame p{
+        margin-top: 1em;
+    }
+    #db{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #db p{
+        margin-top: 1em;
+    }

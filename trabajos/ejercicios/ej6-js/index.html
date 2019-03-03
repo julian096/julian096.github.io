@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>JavaScript</title>
+</head>
+<body>
+    <h1 id="msj">JS</h1>
+    <script>
+        const Mayor = 18;
+        let _edad = prompt("Cuantos años tiene tu morrita?");
+        let edad = Number(_edad);
+        let dom = document.querySelector("#msj");
+        if (edad >= Mayor){
+            dom.innerHTML = "Eres mayor de edad";
+            document.body.style.background = "blue";
+            document.body.style.color = "white";
+
+        }else{
+            dom.innerHTML = "Te cayo la ONU prro";
+            document.body.style.background = "red";
+            document.body.style.color = "white";
+        }
+        
+    </script>    
+</body>
+</html>
